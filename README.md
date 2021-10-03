@@ -1,4 +1,4 @@
-# ToDo App
+# ToDo List
 Список дел на ReactJS
 ---
 
